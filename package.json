@@ -18,6 +18,6 @@
     "directories": { "output": "dist", "buildResources": "." },
     "files": ["main.js"],
     "mac": { "target": ["dmg"], "category": "public.app-category.productivity", "icon": "icon.png" },
-    "win": { "target": ["nsis"], "icon": "icon.png" }
+   "win": { "target": ["nsis"], "icon": "icon.ico" }
   }
 }
